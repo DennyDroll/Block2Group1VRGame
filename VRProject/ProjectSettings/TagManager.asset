@@ -4,9 +4,12 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Campsite
-  - Fishing
-  - Sorting
+  - Crate1
+  - Crate2
+  - Crate3
+  - Apple
+  - Peach
+  - Pear
   layers:
   - Default
   - TransparentFX
