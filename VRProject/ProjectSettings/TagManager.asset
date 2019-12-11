@@ -10,6 +10,10 @@ TagManager:
   - Apple
   - Peach
   - Pear
+  - Quests
+  - Quest1CrossedOut
+  - Quest2CrossedOut
+  - Quest3CrossedOut
   layers:
   - Default
   - TransparentFX
