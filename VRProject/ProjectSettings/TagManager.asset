@@ -14,6 +14,8 @@ TagManager:
   - Quest1CrossedOut
   - Quest2CrossedOut
   - Quest3CrossedOut
+  - Wall
+  - Fish
   layers:
   - Default
   - TransparentFX

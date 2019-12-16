@@ -214,6 +214,7 @@ public class OVRGrabber : MonoBehaviour
         float closestMagSq = float.MaxValue;
 		OVRGrabbable closestGrabbable = null;
         Collider closestGrabbableCollider = null;
+        
 
         // Iterate grab candidates and find the closest grabbable candidate
 		foreach (OVRGrabbable grabbable in m_grabCandidates.Keys)
