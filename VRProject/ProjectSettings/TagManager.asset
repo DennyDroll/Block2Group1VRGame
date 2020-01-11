@@ -16,6 +16,10 @@ TagManager:
   - Quest3CrossedOut
   - Wall
   - Fish
+  - Fireplace
+  - Stick
+  - Rock
+  - Campfire
   layers:
   - Default
   - TransparentFX
